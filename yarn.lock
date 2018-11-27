@@ -106,8 +106,8 @@ apollo-link@^1.2.3:
     zen-observable-ts "^0.8.10"
 
 apollo-upload-client@^9.0.0:
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/apollo-upload-client/-/apollo-upload-client-9.0.0.tgz#94edaf116b70491f0a2d872a1746da7b788f9c0f"
+  version "9.1.0"
+  resolved "https://registry.yarnpkg.com/apollo-upload-client/-/apollo-upload-client-9.1.0.tgz#13191714ae07388088f2c773ebbfd53ba2f64c53"
   dependencies:
     apollo-link "^1.2.3"
     apollo-link-http-common "^0.2.5"
