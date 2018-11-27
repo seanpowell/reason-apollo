@@ -325,8 +325,8 @@ graphql@^0.13.2:
     iterall "^1.2.1"
 
 graphql_ppx@^0.2.4:
-  version "0.2.7"
-  resolved "https://registry.yarnpkg.com/graphql_ppx/-/graphql_ppx-0.2.7.tgz#5e5f6fa98b7e8ec01dc6d75ab51aa21b58fec515"
+  version "0.2.8"
+  resolved "https://registry.yarnpkg.com/graphql_ppx/-/graphql_ppx-0.2.8.tgz#2f057a69b3131b95cf4cd9ce1e53eb722e6d8baa"
   dependencies:
     request "^2.82.0"
     yargs "^11.0.0"
