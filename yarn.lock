@@ -151,9 +151,9 @@ bcrypt-pbkdf@^1.0.0:
   dependencies:
     tweetnacl "^0.14.3"
 
-bs-platform@^4.0.5:
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-4.0.5.tgz#d4fd9bbdd11765af5b75110a5655065ece05eed6"
+bs-platform@^5.0.5:
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-5.0.5.tgz#f4e1e9f8f36c1636c41589598fec9d225c756238"
 
 camelcase@^4.1.0:
   version "4.1.0"
